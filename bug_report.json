@@ -1,1 +1,14 @@
-
+{
+  "Bug report",
+  "Game":"dota 2",
+  "Name of the bug":"decrase FPS then inaction on Dota 2 client",
+  "Priority":"Hight",
+  "Seriosity":"Critikal",
+  "Description":"if don't make any activities 2 minetus in Dota 2 client - FPS become less",
+  "Operation Systems":"Widows 10 v.1909",
+  "Dota 2 version":"7.31b",
+  "Precondition":"FPS counter in the game - enable",
+  "step to reproduce":"be idle in the Dota 2 client 2 minutes",
+  "expected result":"FPS is more then 60",
+  "Actual result":"FPS is less then 20 FPS"
+}
